@@ -1,5 +1,7 @@
 # ilotresa
 
+Vue/PHP
+
 ## Project setup
 ```
 npm install
